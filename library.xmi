@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_GI2SgDnnEei9UJPHK_QM4w" guid="_GI2SgDnnEei9UJPHK_QM4w">
+    <subManagers xmi:id="_NkioADnnEei9UJPHK_QM4w" href="uma://_Nke9oDnnEei9UJPHK_QM4w#_NkioADnnEei9UJPHK_QM4w"/>
+    <resourceDescriptors xmi:id="_GI4HsDnnEei9UJPHK_QM4w" id="_GIz2QTnnEei9UJPHK_QM4w" uri=""/>
+    <resourceDescriptors xmi:id="_NkioATnnEei9UJPHK_QM4w" id="_Nke9oDnnEei9UJPHK_QM4w" uri="waterfallmodel/plugin.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodLibrary xmi:id="_GIz2QTnnEei9UJPHK_QM4w" name="WaterfallModel" guid="_GIz2QTnnEei9UJPHK_QM4w">
+    <methodElementProperty xmi:id="_GRZKgDnnEei9UJPHK_QM4w" name="library_synFree" value="true"/>
+    <methodPlugins xmi:id="_Nke9oDnnEei9UJPHK_QM4w" href="uma://_Nke9oDnnEei9UJPHK_QM4w#_Nke9oDnnEei9UJPHK_QM4w"/>
+  </org.eclipse.epf.uma:MethodLibrary>
+</xmi:XMI>

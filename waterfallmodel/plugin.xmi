@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_NkioADnnEei9UJPHK_QM4w" guid="_NkioADnnEei9UJPHK_QM4w"/>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_Nke9oDnnEei9UJPHK_QM4w" name="waterfallmodel" guid="_Nke9oDnnEei9UJPHK_QM4w" changeDate="2018-04-06T19:10:11.281-0300">
+    <methodElementProperty xmi:id="_Nkrx8DnnEei9UJPHK_QM4w" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_RjiNIDnnEei9UJPHK_QM4w" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Nke9oTnnEei9UJPHK_QM4w" name="Content" guid="_Nke9oTnnEei9UJPHK_QM4w">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Nke9ojnnEei9UJPHK_QM4w" name="Categories" guid="_Nke9ojnnEei9UJPHK_QM4w">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Nke9oznnEei9UJPHK_QM4w" name="Domains" guid="_Nke9oznnEei9UJPHK_QM4w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Nke9pDnnEei9UJPHK_QM4w" name="Disciplines" guid="_Nke9pDnnEei9UJPHK_QM4w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Nke9pTnnEei9UJPHK_QM4w" name="RoleSets" guid="_Nke9pTnnEei9UJPHK_QM4w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Nke9pjnnEei9UJPHK_QM4w" name="WP Types" guid="_Nke9pjnnEei9UJPHK_QM4w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Nke9pznnEei9UJPHK_QM4w" name="Tools" guid="_Nke9pznnEei9UJPHK_QM4w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Nke9qDnnEei9UJPHK_QM4w" name="StandardCategories" guid="_Nke9qDnnEei9UJPHK_QM4w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Nke9qTnnEei9UJPHK_QM4w" name="CustomCategories" guid="_Nke9qTnnEei9UJPHK_QM4w">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Nke9qjnnEei9UJPHK_QM4w" name="Hidden" guid="_Nke9qjnnEei9UJPHK_QM4w">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Nke9qznnEei9UJPHK_QM4w" name="Custom Categories" guid="_Nke9qznnEei9UJPHK_QM4w"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Nke9rDnnEei9UJPHK_QM4w" name="CoreContent" guid="_Nke9rDnnEei9UJPHK_QM4w">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_T7T80DnnEei9UJPHK_QM4w" name="waterfall_content_package" guid="_T7T80DnnEei9UJPHK_QM4w">
+          <methodElementProperty xmi:id="_T7Uj4DnnEei9UJPHK_QM4w" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_ayJ40DnnEei9UJPHK_QM4w" name="me_edited" value="true"/>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Nke9rTnnEei9UJPHK_QM4w" name="CapabilityPatterns" guid="_Nke9rTnnEei9UJPHK_QM4w"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Nke9rjnnEei9UJPHK_QM4w" name="DeliveryProcesses" guid="_Nke9rjnnEei9UJPHK_QM4w"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Nke9rznnEei9UJPHK_QM4w" name="ProcessContributions" guid="_Nke9rznnEei9UJPHK_QM4w"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>
